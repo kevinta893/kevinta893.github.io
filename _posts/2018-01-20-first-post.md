@@ -2,6 +2,6 @@
 
 Octocat
 
-![Octocat]({{ "/assets/octocat.png | absolute_url}})
+![Octocat]({{ "/assets/octocat.png" | absolute_url}})
 
 
